@@ -1,9 +1,31 @@
 # Movies-Data
 10k films data in CSV & JSON.
 
-## Variables included
+## Properties
+- ID
+- Title
+- Year
+- Rating
+- NumVotes
+- imdbID
+- Type
+- Released
+- Runtime
+- Genres
+- Directors
+- Poster
+- Metascore
+- imdbRating
+- imdbVotes
+- tomatoMeter
+- tomatoRating
+- tomatoRotten
+- tomatoUserMeter
+- tomatoUserRating
+- poster_path
+- release_date
 
-## Additional available variables
+More properties are available in API's
 
 ## Last Update
 2015-03-03
@@ -14,7 +36,7 @@ IMDb + OMDb + TMDb
 ## Method
 Cf. JavaScript code in MovieData-v.0.2.html
 
-## Not included requirements
+## Requirements to run it yourself
 
 - Kimonolabs Api Key (replace in the javascript)
 - TMDb Api Key (replace in the javascript)
