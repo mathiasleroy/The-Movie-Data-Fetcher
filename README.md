@@ -46,4 +46,4 @@ Cf. JavaScript code in MovieData-v.0.2.html
 - underscore-min.js (place in /js/ folder)
 
 ## Uses
-This data was generated to be used in http://mathiasleroy.com/MoviePicker
+This data was generated to be used in http://internetmoviebrowser.com
