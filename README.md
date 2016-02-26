@@ -1,3 +1,6 @@
+Major update coming soon. With the close of kimonolabs I only need to find a workaround to get the base list of movies imdb id's
+
+
 # Movies-Data
 10k films data in CSV & JSON.
 
