@@ -1,5 +1,5 @@
-FEB 2016: Major update coming soon. With the close of kimonolabs I only need to find a workaround to get the base list of movies imdb id's
-
+This project doesn't work anymore with kimonolabs services stoppping.
+Project is being rewritten in python3.
 
 # Movies-Data
 10k films data in CSV & JSON.
